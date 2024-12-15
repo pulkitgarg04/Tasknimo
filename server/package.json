@@ -1,0 +1,31 @@
+{
+  "name": "tasknimo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulkitgarg04/Tasknimo.git"
+  },
+  "author": "Pulkit Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulkitgarg04/Tasknimo/issues"
+  },
+  "homepage": "https://github.com/pulkitgarg04/Tasknimo#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "prisma": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.0.1",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7"
+  }
+}
